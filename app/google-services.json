@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "658063364090",
+    "project_id": "lyre-def1d"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658063364090:android:c1c3d0993eac64ab",
+        "android_client_info": {
+          "package_name": "edu.walls.lyre"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658063364090-o7oio9u641t538jsh0jn8fro9nj70avv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.walls.lyre",
+            "certificate_hash": "77AFAE983C17C393146B9855C24F74183AFC9CD0"
+          }
+        },
+        {
+          "client_id": "658063364090-ttr2441bffkuufq8414oefkp9vcfis9n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjrq51o1X5vygGLu4hQQhGKhKFODOQlXQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
